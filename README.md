@@ -10,12 +10,12 @@ This repository is organized into three main Jupyter Notebooks, each correspondi
    - **File:** `steady_states.ipynb`
    - **Description:** This notebook simulates the average number of steady states in the system. It computes the probability of having steady states with \(k\) strains and their average number in a pool of \(N\) strains, considering \(\lambda_i^j\) as independent and identically distributed (iid) variables and introducing the impact of \(\mu\).
 
-2. **Saturated States**:
-   - **File:** `saturated_states.ipynb`
+2. **Saturated Steady States**:
+   - **File:** `saturated_steady_states.ipynb`
    - **Description:** This notebook simulates the average number of saturated states in the system. It computes the probability of having saturated states with \(k\) strains and their average number in a pool of \(N\) strains, considering \(\lambda_i^j\) as independent and identically distributed (iid) variables and introducing the impact of \(\mu\).
 
-3. **Stable States**:
-   - **File:** `stable_states.ipynb`
+3. **Stable Steady States**:
+   - **File:** `stable_steady_states.ipynb`
    - **Description:** This notebook simulates the average number of stable states in the system. It also calculates the probability of stable states with \(k\) strains and their average number in a pool of \(N\) strains, considering \(\lambda_i^j\) as independent and identically distributed (iid) variables and introducing the impact of \(\mu\).
 
 ## Research Context
